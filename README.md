@@ -1,2 +1,1 @@
-# alanmvp
-este es un repositorio prueba
+Este es un proyecto prueba de como blah blah blah
